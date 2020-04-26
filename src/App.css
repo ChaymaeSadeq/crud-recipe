@@ -1,0 +1,59 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+
+.myForm{
+  width: 100%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.formField{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.myButton{
+  width: 100%;
+  background-color: teal;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: -moz-repeating-radial-gradient();
+
+}
+
+.myListButton1{
+  width: 20%;
+  background-color: darkslategray;
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  margin-right: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.myListButton2{
+  width: 20%;
+  background-color: tomato;
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
